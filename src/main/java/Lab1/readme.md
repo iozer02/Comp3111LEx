@@ -5,4 +5,4 @@ This is my 1st lab in Comp3111 - Software Engineering
 
 Here's the screenshot of my 1st lab project in intelliJ:
 
-![img.png](img.png)
+![Screenshot 2023-09-13 at 8.37.46 PM.png](Screenshot%202023-09-13%20at%208.37.46%20PM.png)
